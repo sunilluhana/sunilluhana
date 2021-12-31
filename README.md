@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<a href="https://www.linkedin.com/in/sunil-luhana-92083212b/"><img align="left" src="https://github.com/sunilluhana/sunilluhana/blob/main/images/linkedin.svg" alt="icon | LinkedIn" width="21px"/></a>
+<a href="https://www.linkedin.com/in/sunil-luhana-92083212b/"><img align="left" src="https://raw.githubusercontent.com/sunilluhana/sunilluhana/main/images/linkedin.svg" alt="icon | LinkedIn" width="21px"/></a>
 
 
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=sunilluhana)](https://github.com/sunilluhana)
