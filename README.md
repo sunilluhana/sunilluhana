@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **sunilluhana/sunilluhana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,11 +13,32 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<p align="center">
+  <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/75753187/123350185-74ce0900-d528-11eb-848d-d92955dbb944.png" alt="my banner"></a>
+</p>
 
-<p>
+<h3 align="center">
+Hi there, I'm <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer">Yu</a> 👋
+</h3>
 
-### Technical Skills
+<h2 align="center">
+I'm a Full-Stack Web Developer 💻, Photographer 📸, and Designer 🎨!
+</h2> 
 
+I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
+
+
+### 🤝 Connect with me:
+
+<a href="https://www.linkedin.com/in/sunil-luhana-92083212b/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/sunilluhana/sunilluhana/main/images/linkedin.svg" alt="icon | LinkedIn" width="21px"/></a>
+
+<a href="https://www.linkedin.com/in/sunil-luhana-92083212b/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/sunilluhana/sunilluhana/main/images/instagram.svg" alt="icon | LinkedIn" width="21px"/></a>
+
+<a href="https://www.linkedin.com/in/sunil-luhana-92083212b/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/sunilluhana/sunilluhana/main/images/medium.svg" alt="icon | LinkedIn" width="21px"/></a>
+
+
+
+## 💼 Technical Skills
 
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&color=787CB5)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
@@ -49,22 +68,9 @@ Here are some ideas to get you started:
 
 
 
-</p>
+<!-- ## 📝 Latest Blog Posts -->
 
-
-
-
-<br />
-
-### 🤝 Connect with me
-
-<a href="https://www.linkedin.com/in/sunil-luhana-92083212b/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/sunilluhana/sunilluhana/main/images/linkedin.svg" alt="icon | LinkedIn" width="21px"/></a>
-
-<a href="https://www.linkedin.com/in/sunil-luhana-92083212b/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/sunilluhana/sunilluhana/main/images/instagram.svg" alt="icon | LinkedIn" width="21px"/></a>
-
-<a href="https://www.linkedin.com/in/sunil-luhana-92083212b/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/sunilluhana/sunilluhana/main/images/medium.svg" alt="icon | LinkedIn" width="21px"/></a>
-
-<br /><br />
+## 📈 GitHub Stats 
 
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=sunilluhana)](https://github.com/sunilluhana)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunilluhana&layout=compact)](https://github.com/sunilluhana)
