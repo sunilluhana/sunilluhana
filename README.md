@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&color=000000)
 ![](https://img.shields.io/badge/Tools-Bitbucket-informational?style=flat&logo=bitbucket&color=2580F7)
 ![](https://img.shields.io/badge/Tools-Redis-informational?style=flat&logo=redis&color=D12B1F)
-![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&color=D12B1F)
+![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&color=25C7B7)
 
 
 </p>
