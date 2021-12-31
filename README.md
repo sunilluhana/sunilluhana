@@ -50,8 +50,6 @@ I love the entire process of developing creative websites. I love the challenge 
 ![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57)
 ![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=mongodb&color=049024)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
-
-
 ![](https://img.shields.io/badge/Code-Firebase-informational?style=flat&logo=firebase&color=039BE5)
 
 ![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
