@@ -28,7 +28,7 @@ I'm a Full-Stack Web Developer 💻, Photographer 📸, and Designer 🎨!
 I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look. -->
 
 
-### 🤝 Connect with me:
+## 🤝 Connect with me:
 
 <a href="https://www.linkedin.com/in/sunil-luhana-92083212b/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/sunilluhana/sunilluhana/main/images/linkedin.svg" alt="icon | LinkedIn" width="21px"/></a>
 
