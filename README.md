@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
 ![](https://img.shields.io/badge/Code-HTML5-informational??style=flat&logo=html5&color=FF5733)
+![](https://img.shields.io/badge/Code-JavaScript-informational??style=flat&logo=javascript&color=f0db4f)
+![](https://img.shields.io/badge/Code-PHP-informational??style=flat&logo=php&color=787CB5)
 
 </p>
 
