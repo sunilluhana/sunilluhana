@@ -37,6 +37,7 @@ I love the entire process of developing creative websites. I love the challenge 
 <a href="https://www.linkedin.com/in/sunil-luhana-92083212b/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/sunilluhana/sunilluhana/main/images/medium.svg" alt="icon | LinkedIn" width="21px"/></a>
 
 
+<br />
 
 ## 💼 Technical Skills
 
