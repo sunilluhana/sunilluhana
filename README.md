@@ -17,7 +17,7 @@ Here are some ideas to get you started:
  
 <br />
 
-<b> 🤝 Connect with me<b>
+### 🤝 Connect with me
 
 <a href="https://www.linkedin.com/in/sunil-luhana-92083212b/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/sunilluhana/sunilluhana/main/images/linkedin.svg" alt="icon | LinkedIn" width="21px"/></a>
 
