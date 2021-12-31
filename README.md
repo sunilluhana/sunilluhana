@@ -14,7 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- 
+
+
+<p>
+
+### Technical Skills
+
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
+
+</p>
+
+
+
+
 <br />
 
 ### 🤝 Connect with me
