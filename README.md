@@ -32,11 +32,19 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=mongodb&color=049024)
 
 
+
+![](https://img.shields.io/badge/Code-FIREBASE-informational?style=flat&logo=firebase&color=049024)
+
 ![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=bootstrap&color=563d7c)
 ![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=css3&color=2965f1)
 
 ![](https://img.shields.io/badge/Tools-Insomnia-informational?style=flat&logo=insomnia&color=5849BE)
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&color=f34f29)
+![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&color=000000)
+![](https://img.shields.io/badge/Tools-Bitbucket-informational?style=flat&logo=bitbucket&color=2580F7)
 ![](https://img.shields.io/badge/Tools-Redis-informational?style=flat&logo=redis&color=D12B1F)
+![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&color=D12B1F)
+
 
 </p>
 
