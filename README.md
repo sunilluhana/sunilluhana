@@ -26,6 +26,10 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Code-PHP-informational??style=flat&logo=php&color=787CB5)
 ![](https://img.shields.io/badge/Code-Bootstrap-informational??style=flat&logo=bootstrap&color=563d7c)
 ![](https://img.shields.io/badge/Code-CSS3-informational??style=flat&logo=css3&color=2965f1)
+![](https://img.shields.io/badge/Code-Laravel-informational??style=flat&logo=laravel&color=fb503b)
+![](https://img.shields.io/badge/Code-NPM-informational??style=flat&logo=npm&color=cb3837)
+![](https://img.shields.io/badge/Code-Insomnia-informational??style=flat&logo=insomnia&color=cb3837)
+
 </p>
 
 
