@@ -24,7 +24,8 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Code-HTML5-informational??style=flat&logo=html5&color=FF5733)
 ![](https://img.shields.io/badge/Code-JavaScript-informational??style=flat&logo=javascript&color=f0db4f)
 ![](https://img.shields.io/badge/Code-PHP-informational??style=flat&logo=php&color=787CB5)
-
+![](https://img.shields.io/badge/Code-Bootstrap-informational??style=flat&logo=bootstrap&color=563d7c)
+![](https://img.shields.io/badge/Code-CSS3-informational??style=flat&logo=css3&color=2965f1)
 </p>
 
 
