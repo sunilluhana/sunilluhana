@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ### Technical Skills
 
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
-![](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-flat&logo=html5&color=white)
+![](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&color=61DAFB)
 
 </p>
 
