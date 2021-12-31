@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 
 
-![](https://img.shields.io/badge/Code-FIREBASE-informational?style=flat&logo=firebase&color=049024)
+![](https://img.shields.io/badge/Code-FIREBASE-informational?style=flat&logo=firebase&color=039BE5)
 
 ![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=bootstrap&color=563d7c)
 ![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=css3&color=2965f1)
