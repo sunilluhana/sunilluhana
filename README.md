@@ -22,21 +22,21 @@ Here are some ideas to get you started:
 
 
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&color=787CB5)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=f0db4f)
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&color=FF5733)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
+![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
 ![](https://img.shields.io/badge/Code-Laravel-informational?style=flat&logo=laravel&color=fb503b)
 ![](https://img.shields.io/badge/Code-NPM-informational?style=flat&logo=npm&color=cb3837)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=mysql&color=124C5D)
-![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=sqlite&color=083853)
-![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=postgresql&color=336791)
+![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
+![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57)
 ![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=mongodb&color=049024)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
 
 
 ![](https://img.shields.io/badge/Code-Firebase-informational?style=flat&logo=firebase&color=039BE5)
 
-![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=bootstrap&color=563d7c)
-![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=css3&color=2965f1)
+![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
+![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
 
 ![](https://img.shields.io/badge/Tools-Insomnia-informational?style=flat&logo=insomnia&color=5849BE)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&color=f34f29)
