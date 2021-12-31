@@ -73,7 +73,7 @@ I love the entire process of developing creative websites. I love the challenge 
 
 ## 📈 GitHub Stats 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunilluhana&show_icons=true&theme=radical)
 
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=sunilluhana)](https://github.com/sunilluhana)
+<!-- [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=sunilluhana)](https://github.com/sunilluhana) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunilluhana&layout=compact)](https://github.com/sunilluhana)
