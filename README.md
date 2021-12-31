@@ -15,12 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/sunil-luhana-92083212b/"><img align="left" src="https://raw.githubusercontent.com/sunilluhana/sunilluhana/main/images/linkedin.svg" alt="icon | LinkedIn" width="21px"/></a>
+<a href="https://www.linkedin.com/in/sunil-luhana-92083212b/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/sunilluhana/sunilluhana/main/images/linkedin.svg" alt="icon | LinkedIn" width="21px"/></a>
 
-<a href="https://www.linkedin.com/in/sunil-luhana-92083212b/"><img align="left" src="https://raw.githubusercontent.com/sunilluhana/sunilluhana/main/images/instagram.svg" alt="icon | LinkedIn" width="21px"/></a>
+<a href="https://www.linkedin.com/in/sunil-luhana-92083212b/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/sunilluhana/sunilluhana/main/images/instagram.svg" alt="icon | LinkedIn" width="21px"/></a>
 
-<a href="https://www.linkedin.com/in/sunil-luhana-92083212b/"><img align="left" src="https://raw.githubusercontent.com/sunilluhana/sunilluhana/main/images/medium.svg" alt="icon | LinkedIn" width="21px"/></a>
+<a href="https://www.linkedin.com/in/sunil-luhana-92083212b/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/sunilluhana/sunilluhana/main/images/medium.svg" alt="icon | LinkedIn" width="21px"/></a>
 
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=sunilluhana)](https://github.com/sunilluhana)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunilluhana&layout=compact)](https://github.com/sunilluhana)
